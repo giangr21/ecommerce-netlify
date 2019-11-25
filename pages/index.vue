@@ -5,6 +5,7 @@
     <app-textlockup>
       <template v-slot:img>
         <img src="/bag.jpg" alt="bag" />
+        <h1>JamStack is the theme with serverless</h1>
       </template>
       <template v-slot:new>50%</template>
       <template v-slot:sale>Storewide Sale</template>
